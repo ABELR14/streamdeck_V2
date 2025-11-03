@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StreamDeck PC - Configuration</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .main-content {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+        
+        .filter-bar {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 8px 16px;
+            border: 2px solid #667eea;
+            background: white;
+            color: #667eea;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.9em;
+            font-weight: 600;
+        }
+        
+        .filter-btn:hover {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+        }
+        
+        .filter-btn.active {
+            background: #667eea;
+            color: white;
+        }
+        
+        .actions-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+            max-height: 600px;
+            overflow-y: auto;
+            padding-right: 10px;
+        }
+        
+        .actions-grid::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        .actions-grid::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+        
+        .actions-grid::-webkit-scrollbar-thumb {
+            background: #667eea;
+            border-radius: 10px;
+        }
+        
+        .action-item {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-align: center;
+            position: relative;
+            border: 3px solid transparent;
+        }
+        
+        .action-item:hover {
+            transform: translateY(-5px) scale(1.05);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+        }
+        
+        .action-item.selected {
+            border-color: #ffd700;
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.6);
+        }
+        
+        .action-item .icon {
+            font-size: 3em;
+            margin-bottom: 10px;
+            display: block;
+        }
+        
+        .action-item .name {
+            font-size: 0.9em;
+            font-weight: 600;
+        }
+        
+        .action-item .badge {
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            background: #ffd700;
+            color: #333;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.9em;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+        }
+        
+        .favorites-panel {
+            position: sticky;
+            top: 20px;
+        }
+        
+        .favorites-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .favorite-slot {
+            aspect-ratio: 1;
+            background: #f5f5f5;
+            border: 3px dashed #ccc;
+            border-radius: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            position: relative;
+        }
+        
+        .favorite-slot:hover {
+            background: #e8e8e8;
+            border-color: #667eea;
+        }
+        
+        .favorite-slot.filled {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-style: solid;
+            border-color: #ffd700;
+            color: white;
+        }
+        
+        .favorite-slot .icon {
+            font-size: 3em;
+            margin-bottom: 8px;
+        }
+        
+        .favorite-slot .name {
+            font-size: 0.85em;
+            font-weight: 600;
+            text-align: center;
+            padding: 0 10px;
+        }
+        
+        .favorite-slot .number {
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            background: rgba(255,255,255,0.3);
+            color: white;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+        
+        .favorite-slot .remove-btn {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            background: rgba(255, 68, 68, 0.9);
+            color: white;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-weight: bold;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        
+        .favorite-slot:hover .remove-btn {
+            opacity: 1;
+        }
+        
+        .save-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-bottom: 15px;
+        }
+        
+        .save-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(17, 153, 142, 0.4);
+        }
+        
+        .save-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .test-favorites {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 10px;
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 15px;
+        }
+        
+        .test-btn {
+            aspect-ratio: 1;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9em;
+            font-weight: 600;
+        }
+        
+        .test-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .test-btn:active {
+            transform: scale(0.95);
+        }
+        
+        .test-btn .icon {
+            font-size: 2em;
+            margin-bottom: 5px;
+        }
+        
+        .status-message {
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+            text-align: center;
+            font-weight: 600;
+            display: none;
+        }
+        
+        .status-message.success {
+            background: #d4edda;
+            color: #155724;
+            display: block;
+        }
+        
+        .status-message.error {
+            background: #f8d7da;
+            color: #721c24;
+            display: block;
+        }
+        
+        .counter {
+            text-align: center;
+            color: #667eea;
+            font-size: 1.1em;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        
+        @media (max-width: 1200px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+            
+            .favorites-panel {
+                position: static;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎮 StreamDeck PC</h1>
+            <p>Configurez vos 5 actions favorites parmi 50+ options disponibles</p>
+        </header>
+        
+        <div class="main-content">
+            <!-- Panel gauche: Toutes les actions -->
+            <div class="card">
+                <h2>📋 Actions disponibles</h2>
+                
+                <div class="filter-bar">
+                    <button class="filter-btn active" data-category="all">Toutes</button>
+                    <button class="filter-btn" data-category="Applications">Applications</button>
+                    <button class="filter-btn" data-category="Focus">Focus</button>
+                    <button class="filter-btn" data-category="Fermer">Fermer</button>
+                    <button class="filter-btn" data-category="Presse-papiers">Presse-papiers</button>
+                    <button class="filter-btn" data-category="Raccourcis">Raccourcis</button>
+                    <button class="filter-btn" data-category="Système">Système</button>
+                    <button class="filter-btn" data-category="Fenêtres">Fenêtres</button>
+                    <button class="filter-btn" data-category="Texte">Texte</button>
+                </div>
+                
+                <div class="actions-grid" id="actionsGrid">
+                    <!-- Les actions seront chargées ici dynamiquement -->
+                </div>
+            </div>
+            
+            <!-- Panel droit: Favoris -->
+            <div class="card favorites-panel">
+                <h2>⭐ Mes 5 favoris</h2>
+                <div class="counter">
+                    <span id="selectedCount">0</span> / 5 sélectionnés
+                </div>
+                
+                <div class="favorites-grid" id="favoritesGrid">
+                    <div class="favorite-slot" data-slot="0">
+                        <div class="number">1</div>
+                        <div class="icon">➕</div>
+                        <div class="name">Vide</div>
+                    </div>
+                    <div class="favorite-slot" data-slot="1">
+                        <div class="number">2</div>
+                        <div class="icon">➕</div>
+                        <div class="name">Vide</div>
+                    </div>
+                    <div class="favorite-slot" data-slot="2">
+                        <div class="number">3</div>
+                        <div class="icon">➕</div>
+                        <div class="name">Vide</div>
+                    </div>
+                    <div class="favorite-slot" data-slot="3">
+                        <div class="number">4</div>
+                        <div class="icon">➕</div>
+                        <div class="name">Vide</div>
+                    </div>
+                    <div class="favorite-slot" data-slot="4">
+                        <div class="number">5</div>
+                        <div class="icon">➕</div>
+                        <div class="name">Vide</div>
+                    </div>
+                </div>
+                
+                <button class="save-btn" id="saveBtn">💾 Enregistrer la configuration</button>
+                
+                <div class="status-message" id="statusMessage"></div>
+            </div>
+        </div>
+        
+        <!-- Zone de test des favoris -->
+        <div class="card">
+            <h2>🎯 Tester mes favoris</h2>
+            <div class="test-favorites" id="testFavorites">
+                <!-- Les boutons de test seront générés ici -->
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let allActions = [];
+        let selectedFavorites = [];
+        let currentCategory = 'all';
+        
+        // Charger toutes les actions disponibles
+        async function loadActions() {
+            try {
+                const response = await fetch('/actions');
+                allActions = await response.json();
+                renderActions();
+            } catch (error) {
+                console.error('Erreur chargement actions:', error);
+            }
+        }
+        
+        // Charger la configuration sauvegardée
+        async function loadConfig() {
+            try {
+                const response = await fetch('/config');
+                const config = await response.json();
+                selectedFavorites = config.favorites || [];
+                updateUI();
+            } catch (error) {
+                console.error('Erreur chargement config:', error);
+            }
+        }
+        
+        // Afficher les actions filtrées
+        function renderActions() {
+            const grid = document.getElementById('actionsGrid');
+            grid.innerHTML = '';
+            
+            const filtered = currentCategory === 'all' 
+                ? allActions 
+                : allActions.filter(a => a.category === currentCategory);
+            
+            filtered.forEach((action, index) => {
+                const div = document.createElement('div');
+                div.className = 'action-item';
+                if (selectedFavorites.includes(action.id)) {
+                    div.classList.add('selected');
+                    const slotIndex = selectedFavorites.indexOf(action.id);
+                    div.innerHTML = `
+                        <span class="badge">${slotIndex + 1}</span>
+                        <span class="icon">${action.icon}</span>
+                        <span class="name">${action.name}</span>
+                    `;
+                } else {
+                    div.innerHTML = `
+                        <span class="icon">${action.icon}</span>
+                        <span class="name">${action.name}</span>
+                    `;
+                }
+                
+                div.addEventListener('click', () => toggleFavorite(action.id));
+                grid.appendChild(div);
+            });
+        }
+        
+        // Ajouter/retirer un favori
+        function toggleFavorite(actionId) {
+            const index = selectedFavorites.indexOf(actionId);
+            
+            if (index > -1) {
+                // Retirer
+                selectedFavorites.splice(index, 1);
+            } else {
+                // Ajouter si pas déjà 5
+                if (selectedFavorites.length < 5) {
+                    selectedFavorites.push(actionId);
+                } else {
+                    showStatus('Vous ne pouvez sélectionner que 5 favoris maximum', 'error');
+                    return;
+                }
+            }
+            
+            updateUI();
+        }
+        
+        // Mettre à jour l'interface
+        function updateUI() {
+            // Compteur
+            document.getElementById('selectedCount').textContent = selectedFavorites.length;
+            
+            // Grid des actions
+            renderActions();
+            
+            // Slots favoris
+            const slots = document.querySelectorAll('.favorite-slot');
+            slots.forEach((slot, index) => {
+                const actionId = selectedFavorites[index];
+                
+                if (actionId) {
+                    const action = allActions.find(a => a.id === actionId);
+                    if (action) {
+                        slot.classList.add('filled');
+                        slot.innerHTML = `
+                            <div class="number">${index + 1}</div>
+                            <div class="remove-btn" data-slot="${index}">×</div>
+                            <div class="icon">${action.icon}</div>
+                            <div class="name">${action.name}</div>
+                        `;
+                        
+                        // Gestionnaire suppression
+                        slot.querySelector('.remove-btn').addEventListener('click', (e) => {
+                            e.stopPropagation();
+                            selectedFavorites.splice(index, 1);
+                            updateUI();
+                        });
+                    }
+                } else {
+                    slot.classList.remove('filled');
+                    slot.innerHTML = `
+                        <div class="number">${index + 1}</div>
+                        <div class="icon">➕</div>
+                        <div class="name">Vide</div>
+                    `;
+                }
+            });
+            
+            // Zone de test
+            updateTestButtons();
+            
+            // Bouton enregistrer
+            document.getElementById('saveBtn').disabled = selectedFavorites.length === 0;
+        }
+        
+        // Mettre à jour les boutons de test
+        function updateTestButtons() {
+            const testZone = document.getElementById('testFavorites');
+            testZone.innerHTML = '';
+            
+            for (let i = 0; i < 5; i++) {
+                const actionId = selectedFavorites[i];
+                const btn = document.createElement('button');
+                btn.className = 'test-btn';
+                
+                if (actionId) {
+                    const action = allActions.find(a => a.id === actionId);
+                    if (action) {
+                        btn.innerHTML = `
+                            <div class="icon">${action.icon}</div>
+                            <div>${action.name}</div>
+                        `;
+                        btn.addEventListener('click', () => executeAction(actionId));
+                    }
+                } else {
+                    btn.innerHTML = `
+                        <div class="icon">➕</div>
+                        <div>Vide</div>
+                    `;
+                    btn.disabled = true;
+                    btn.style.opacity = '0.3';
+                    btn.style.cursor = 'not-allowed';
+                }
+                
+                testZone.appendChild(btn);
+            }
+        }
+        
+        // Sauvegarder la configuration
+        async function saveConfiguration() {
+            try {
+                const response = await fetch('/config', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ favorites: selectedFavorites })
+                });
+                
+                const result = await response.json();
+                if (response.ok) {
+                    showStatus('✅ Configuration sauvegardée !', 'success');
+                } else {
+                    showStatus('❌ ' + result.message, 'error');
+                }
+            } catch (error) {
+                showStatus('❌ Erreur de sauvegarde', 'error');
+            }
+        }
+        
+        // Exécuter une action
+        async function executeAction(actionId) {
+            try {
+                const response = await fetch(`/execute/${actionId}`, { method: 'POST' });
+                const result = await response.json();
+                showStatus(result.result, response.ok ? 'success' : 'error');
+            } catch (error) {
+                showStatus('❌ Erreur d\'exécution', 'error');
+            }
+        }
+        
+        // Afficher un message de statut
+        function showStatus(message, type) {
+            const statusEl = document.getElementById('statusMessage');
+            statusEl.textContent = message;
+            statusEl.className = `status-message ${type}`;
+            
+            setTimeout(() => {
+                statusEl.className = 'status-message';
+            }, 3000);
+        }
+        
+        // Filtres de catégories
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentCategory = btn.dataset.category;
+                renderActions();
+            });
+        });
+        
+        // Bouton sauvegarder
+        document.getElementById('saveBtn').addEventListener('click', saveConfiguration);
+        
+        // Initialisation
+        loadActions().then(() => loadConfig());
+    </script>
+</body>
+</html>

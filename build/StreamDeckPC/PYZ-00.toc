@@ -1,0 +1,3548 @@
+('C:\\Users\\PC MARKET\\controle\\build\\StreamDeckPC\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('asgiref',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\asgiref\\__init__.py',
+   'PYMODULE'),
+  ('asgiref.current_thread_executor',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\asgiref\\current_thread_executor.py',
+   'PYMODULE'),
+  ('asgiref.local',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\asgiref\\local.py',
+   'PYMODULE'),
+  ('asgiref.sync',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\asgiref\\sync.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('blinker',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\blinker\\__init__.py',
+   'PYMODULE'),
+  ('blinker._utilities',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\blinker\\_utilities.py',
+   'PYMODULE'),
+  ('blinker.base',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\blinker\\base.py',
+   'PYMODULE'),
+  ('bottle',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\bottle.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\cgi.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('click',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\__init__.py',
+   'PYMODULE'),
+  ('click._compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\_compat.py',
+   'PYMODULE'),
+  ('click._termui_impl',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\_termui_impl.py',
+   'PYMODULE'),
+  ('click._textwrap',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\_textwrap.py',
+   'PYMODULE'),
+  ('click._winconsole',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\_winconsole.py',
+   'PYMODULE'),
+  ('click.core',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\core.py',
+   'PYMODULE'),
+  ('click.decorators',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\decorators.py',
+   'PYMODULE'),
+  ('click.exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\exceptions.py',
+   'PYMODULE'),
+  ('click.formatting',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\formatting.py',
+   'PYMODULE'),
+  ('click.globals',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\globals.py',
+   'PYMODULE'),
+  ('click.parser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\parser.py',
+   'PYMODULE'),
+  ('click.shell_completion',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\shell_completion.py',
+   'PYMODULE'),
+  ('click.termui',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\termui.py',
+   'PYMODULE'),
+  ('click.testing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\testing.py',
+   'PYMODULE'),
+  ('click.types',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\types.py',
+   'PYMODULE'),
+  ('click.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\click\\utils.py',
+   'PYMODULE'),
+  ('clr',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr.py',
+   'PYMODULE'),
+  ('clr_loader',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.ffi',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\ffi\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.hostfxr',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\ffi\\hostfxr.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.mono',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\ffi\\mono.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.netfx',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\ffi\\netfx.py',
+   'PYMODULE'),
+  ('clr_loader.hostfxr',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\hostfxr.py',
+   'PYMODULE'),
+  ('clr_loader.mono',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\mono.py',
+   'PYMODULE'),
+  ('clr_loader.netfx',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\netfx.py',
+   'PYMODULE'),
+  ('clr_loader.types',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\types.py',
+   'PYMODULE'),
+  ('clr_loader.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\util\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.util.clr_error',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\util\\clr_error.py',
+   'PYMODULE'),
+  ('clr_loader.util.coreclr_errors',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\util\\coreclr_errors.py',
+   'PYMODULE'),
+  ('clr_loader.util.find',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\util\\find.py',
+   'PYMODULE'),
+  ('clr_loader.util.hostfxr_errors',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\util\\hostfxr_errors.py',
+   'PYMODULE'),
+  ('clr_loader.util.runtime_spec',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\clr_loader\\util\\runtime_spec.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorama',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('commctrl',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('cryptography',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\decrepit\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.algorithms',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.verification',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\cryptography\\x509\\verification.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fentre', 'C:\\Users\\PC MARKET\\controle\\fentre.py', 'PYMODULE'),
+  ('flask',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\__init__.py',
+   'PYMODULE'),
+  ('flask.app',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\app.py',
+   'PYMODULE'),
+  ('flask.blueprints',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\blueprints.py',
+   'PYMODULE'),
+  ('flask.cli',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\cli.py',
+   'PYMODULE'),
+  ('flask.config',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\config.py',
+   'PYMODULE'),
+  ('flask.ctx',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\ctx.py',
+   'PYMODULE'),
+  ('flask.debughelpers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\debughelpers.py',
+   'PYMODULE'),
+  ('flask.globals',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\globals.py',
+   'PYMODULE'),
+  ('flask.helpers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\helpers.py',
+   'PYMODULE'),
+  ('flask.json',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\json\\__init__.py',
+   'PYMODULE'),
+  ('flask.json.provider',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\json\\provider.py',
+   'PYMODULE'),
+  ('flask.json.tag',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\json\\tag.py',
+   'PYMODULE'),
+  ('flask.logging',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\logging.py',
+   'PYMODULE'),
+  ('flask.sansio', '-', 'PYMODULE'),
+  ('flask.sansio.app',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\sansio\\app.py',
+   'PYMODULE'),
+  ('flask.sansio.blueprints',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\sansio\\blueprints.py',
+   'PYMODULE'),
+  ('flask.sansio.scaffold',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\sansio\\scaffold.py',
+   'PYMODULE'),
+  ('flask.sessions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\sessions.py',
+   'PYMODULE'),
+  ('flask.signals',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\signals.py',
+   'PYMODULE'),
+  ('flask.templating',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\templating.py',
+   'PYMODULE'),
+  ('flask.testing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\testing.py',
+   'PYMODULE'),
+  ('flask.typing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\typing.py',
+   'PYMODULE'),
+  ('flask.wrappers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\flask\\wrappers.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('ifaddr',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\ifaddr\\__init__.py',
+   'PYMODULE'),
+  ('ifaddr._posix',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\ifaddr\\_posix.py',
+   'PYMODULE'),
+  ('ifaddr._shared',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\ifaddr\\_shared.py',
+   'PYMODULE'),
+  ('ifaddr._win32',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\ifaddr\\_win32.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib_metadata._typing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\_typing.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat.py311',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat.py39',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('itsdangerous',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\itsdangerous\\__init__.py',
+   'PYMODULE'),
+  ('itsdangerous._json',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\itsdangerous\\_json.py',
+   'PYMODULE'),
+  ('itsdangerous.encoding',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\itsdangerous\\encoding.py',
+   'PYMODULE'),
+  ('itsdangerous.exc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\itsdangerous\\exc.py',
+   'PYMODULE'),
+  ('itsdangerous.serializer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\itsdangerous\\serializer.py',
+   'PYMODULE'),
+  ('itsdangerous.signer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\itsdangerous\\signer.py',
+   'PYMODULE'),
+  ('itsdangerous.timed',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\itsdangerous\\timed.py',
+   'PYMODULE'),
+  ('itsdangerous.url_safe',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\itsdangerous\\url_safe.py',
+   'PYMODULE'),
+  ('jinja2',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\__init__.py',
+   'PYMODULE'),
+  ('jinja2._identifier',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\_identifier.py',
+   'PYMODULE'),
+  ('jinja2.async_utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\async_utils.py',
+   'PYMODULE'),
+  ('jinja2.bccache',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\bccache.py',
+   'PYMODULE'),
+  ('jinja2.compiler',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\compiler.py',
+   'PYMODULE'),
+  ('jinja2.constants',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\constants.py',
+   'PYMODULE'),
+  ('jinja2.debug',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\debug.py',
+   'PYMODULE'),
+  ('jinja2.defaults',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\defaults.py',
+   'PYMODULE'),
+  ('jinja2.environment',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\environment.py',
+   'PYMODULE'),
+  ('jinja2.exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\exceptions.py',
+   'PYMODULE'),
+  ('jinja2.ext',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\ext.py',
+   'PYMODULE'),
+  ('jinja2.filters',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\filters.py',
+   'PYMODULE'),
+  ('jinja2.idtracking',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\idtracking.py',
+   'PYMODULE'),
+  ('jinja2.lexer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\lexer.py',
+   'PYMODULE'),
+  ('jinja2.loaders',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\loaders.py',
+   'PYMODULE'),
+  ('jinja2.nodes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\nodes.py',
+   'PYMODULE'),
+  ('jinja2.optimizer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\optimizer.py',
+   'PYMODULE'),
+  ('jinja2.parser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\parser.py',
+   'PYMODULE'),
+  ('jinja2.runtime',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\runtime.py',
+   'PYMODULE'),
+  ('jinja2.sandbox',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\sandbox.py',
+   'PYMODULE'),
+  ('jinja2.tests',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\tests.py',
+   'PYMODULE'),
+  ('jinja2.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\utils.py',
+   'PYMODULE'),
+  ('jinja2.visitor',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\jinja2\\visitor.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('markupsafe',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\markupsafe\\__init__.py',
+   'PYMODULE'),
+  ('markupsafe._native',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\markupsafe\\_native.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('proxy_tools',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\proxy_tools\\__init__.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\psutil\\_compat.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('pyrect',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pythonnet',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pythonnet\\__init__.py',
+   'PYMODULE'),
+  ('pytweening',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.distutils_patch',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\distutils_patch.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.py27compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\py27compat.py',
+   'PYMODULE'),
+  ('setuptools.py31compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\py31compat.py',
+   'PYMODULE'),
+  ('setuptools.py33compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\py33compat.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tornado',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\__init__.py',
+   'PYMODULE'),
+  ('tornado.concurrent',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\concurrent.py',
+   'PYMODULE'),
+  ('tornado.escape',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\escape.py',
+   'PYMODULE'),
+  ('tornado.gen',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\gen.py',
+   'PYMODULE'),
+  ('tornado.http1connection',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\http1connection.py',
+   'PYMODULE'),
+  ('tornado.httpserver',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\httpserver.py',
+   'PYMODULE'),
+  ('tornado.httputil',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\httputil.py',
+   'PYMODULE'),
+  ('tornado.ioloop',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\ioloop.py',
+   'PYMODULE'),
+  ('tornado.iostream',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\iostream.py',
+   'PYMODULE'),
+  ('tornado.log',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\log.py',
+   'PYMODULE'),
+  ('tornado.netutil',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\netutil.py',
+   'PYMODULE'),
+  ('tornado.options',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\options.py',
+   'PYMODULE'),
+  ('tornado.platform',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\platform\\__init__.py',
+   'PYMODULE'),
+  ('tornado.platform.asyncio',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\platform\\asyncio.py',
+   'PYMODULE'),
+  ('tornado.process',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\process.py',
+   'PYMODULE'),
+  ('tornado.tcpserver',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\tcpserver.py',
+   'PYMODULE'),
+  ('tornado.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\util.py',
+   'PYMODULE'),
+  ('tornado.wsgi',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\tornado\\wsgi.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('webview',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\__init__.py',
+   'PYMODULE'),
+  ('webview.dom',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\dom\\__init__.py',
+   'PYMODULE'),
+  ('webview.dom.classlist',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\dom\\classlist.py',
+   'PYMODULE'),
+  ('webview.dom.dom',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\dom\\dom.py',
+   'PYMODULE'),
+  ('webview.dom.element',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\dom\\element.py',
+   'PYMODULE'),
+  ('webview.dom.event',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\dom\\event.py',
+   'PYMODULE'),
+  ('webview.dom.propsdict',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\dom\\propsdict.py',
+   'PYMODULE'),
+  ('webview.errors',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\errors.py',
+   'PYMODULE'),
+  ('webview.event',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\event.py',
+   'PYMODULE'),
+  ('webview.guilib',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\guilib.py',
+   'PYMODULE'),
+  ('webview.http',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\http.py',
+   'PYMODULE'),
+  ('webview.localization',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\localization.py',
+   'PYMODULE'),
+  ('webview.menu',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\menu.py',
+   'PYMODULE'),
+  ('webview.models',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\models.py',
+   'PYMODULE'),
+  ('webview.platforms',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.app',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\app.py',
+   'PYMODULE'),
+  ('webview.platforms.android.base',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\base.py',
+   'PYMODULE'),
+  ('webview.platforms.android.event',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\event.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jclass\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.app',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jclass\\app.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.content',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jclass\\content.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.net',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jclass\\net.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.os',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jclass\\os.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.view',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jclass\\view.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.webkit',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jclass\\webkit.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jinterface\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.pywebview',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jinterface\\pywebview.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.view',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jinterface\\view.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.webkit',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\android\\jinterface\\webkit.py',
+   'PYMODULE'),
+  ('webview.platforms.cef',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\cef.py',
+   'PYMODULE'),
+  ('webview.platforms.cocoa',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\cocoa.py',
+   'PYMODULE'),
+  ('webview.platforms.edgechromium',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\edgechromium.py',
+   'PYMODULE'),
+  ('webview.platforms.gtk',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\gtk.py',
+   'PYMODULE'),
+  ('webview.platforms.mshtml',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\mshtml.py',
+   'PYMODULE'),
+  ('webview.platforms.qt',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\qt.py',
+   'PYMODULE'),
+  ('webview.platforms.winforms',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\platforms\\winforms.py',
+   'PYMODULE'),
+  ('webview.screen',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\screen.py',
+   'PYMODULE'),
+  ('webview.state',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\state.py',
+   'PYMODULE'),
+  ('webview.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\util.py',
+   'PYMODULE'),
+  ('webview.window',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\webview\\window.py',
+   'PYMODULE'),
+  ('werkzeug',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug._internal',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\_internal.py',
+   'PYMODULE'),
+  ('werkzeug._reloader',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\_reloader.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.accept',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\accept.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.auth',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\auth.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.cache_control',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\cache_control.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.csp',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\csp.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.etag',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\etag.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.file_storage',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\file_storage.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.headers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\headers.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.mixins',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\mixins.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.range',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\range.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.structures',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\datastructures\\structures.py',
+   'PYMODULE'),
+  ('werkzeug.debug',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\debug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.debug.console',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\debug\\console.py',
+   'PYMODULE'),
+  ('werkzeug.debug.repr',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\debug\\repr.py',
+   'PYMODULE'),
+  ('werkzeug.debug.tbtools',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\debug\\tbtools.py',
+   'PYMODULE'),
+  ('werkzeug.exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\exceptions.py',
+   'PYMODULE'),
+  ('werkzeug.formparser',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\formparser.py',
+   'PYMODULE'),
+  ('werkzeug.http',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\http.py',
+   'PYMODULE'),
+  ('werkzeug.local',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\local.py',
+   'PYMODULE'),
+  ('werkzeug.middleware',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.middleware.shared_data',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\middleware\\shared_data.py',
+   'PYMODULE'),
+  ('werkzeug.routing',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\routing\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.routing.converters',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\routing\\converters.py',
+   'PYMODULE'),
+  ('werkzeug.routing.exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\routing\\exceptions.py',
+   'PYMODULE'),
+  ('werkzeug.routing.map',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\routing\\map.py',
+   'PYMODULE'),
+  ('werkzeug.routing.matcher',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\routing\\matcher.py',
+   'PYMODULE'),
+  ('werkzeug.routing.rules',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\routing\\rules.py',
+   'PYMODULE'),
+  ('werkzeug.sansio',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\sansio\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.http',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\sansio\\http.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.multipart',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\sansio\\multipart.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.request',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\sansio\\request.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.response',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\sansio\\response.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\sansio\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.security',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\security.py',
+   'PYMODULE'),
+  ('werkzeug.serving',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\serving.py',
+   'PYMODULE'),
+  ('werkzeug.test',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\test.py',
+   'PYMODULE'),
+  ('werkzeug.urls',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\urls.py',
+   'PYMODULE'),
+  ('werkzeug.user_agent',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\user_agent.py',
+   'PYMODULE'),
+  ('werkzeug.utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\wrappers\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.request',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\wrappers\\request.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.response',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\wrappers\\response.py',
+   'PYMODULE'),
+  ('werkzeug.wsgi',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\werkzeug\\wsgi.py',
+   'PYMODULE'),
+  ('win32com',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32evtlogutil',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\win32evtlogutil.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Roaming\\Python\\Python39\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('wsgiref',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\wsgiref\\__init__.py',
+   'PYMODULE'),
+  ('wsgiref.handlers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\wsgiref\\handlers.py',
+   'PYMODULE'),
+  ('wsgiref.headers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\wsgiref\\headers.py',
+   'PYMODULE'),
+  ('wsgiref.simple_server',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\wsgiref\\simple_server.py',
+   'PYMODULE'),
+  ('wsgiref.util',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\wsgiref\\util.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zeroconf',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\__init__.py',
+   'PYMODULE'),
+  ('zeroconf._core',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_core.py',
+   'PYMODULE'),
+  ('zeroconf._engine',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_engine.py',
+   'PYMODULE'),
+  ('zeroconf._exceptions',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_exceptions.py',
+   'PYMODULE'),
+  ('zeroconf._handlers',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_handlers\\__init__.py',
+   'PYMODULE'),
+  ('zeroconf._logger',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_logger.py',
+   'PYMODULE'),
+  ('zeroconf._protocol',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_protocol\\__init__.py',
+   'PYMODULE'),
+  ('zeroconf._services.types',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_services\\types.py',
+   'PYMODULE'),
+  ('zeroconf._transport',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_transport.py',
+   'PYMODULE'),
+  ('zeroconf._utils',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('zeroconf._utils.asyncio',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_utils\\asyncio.py',
+   'PYMODULE'),
+  ('zeroconf._utils.name',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_utils\\name.py',
+   'PYMODULE'),
+  ('zeroconf._utils.net',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\_utils\\net.py',
+   'PYMODULE'),
+  ('zeroconf.const',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zeroconf\\const.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipp',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp._functools',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zipp\\_functools.py',
+   'PYMODULE'),
+  ('zipp.compat',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('zipp.compat.overlay',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zipp\\compat\\overlay.py',
+   'PYMODULE'),
+  ('zipp.compat.py310',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('zipp.compat.py313',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zipp\\compat\\py313.py',
+   'PYMODULE'),
+  ('zipp.glob',
+   'C:\\Users\\PC '
+   'MARKET\\AppData\\Local\\Programs\\Python\\Python39-32\\lib\\site-packages\\zipp\\glob.py',
+   'PYMODULE')])
